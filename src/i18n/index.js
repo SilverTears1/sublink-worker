@@ -331,7 +331,7 @@ export function setLanguage(lang) {
   } else if(checkStartsWith(lang, 'ru')) {
     currentLang = 'ru';
   } else {
-    currentLang = 'zh-CN';
+    currentLang = 'fa';
   }
 }
 
