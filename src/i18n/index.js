@@ -317,7 +317,7 @@ const translations = {
 };
 
 // 当前语言
-let currentLang = 'fa';
+let currentLang = 'zh-CN';
 
 
 // 设置语言
@@ -331,7 +331,7 @@ export function setLanguage(lang) {
   } else if(checkStartsWith(lang, 'ru')) {
     currentLang = 'ru';
   } else {
-    currentLang = 'fa';
+    currentLang = 'zh-CN';
   }
 }
 
