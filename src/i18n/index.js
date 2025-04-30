@@ -317,7 +317,7 @@ const translations = {
 };
 
 // 当前语言
-let currentLang = 'zh-CN';
+let currentLang = 'en-US';
 
 
 // 设置语言
